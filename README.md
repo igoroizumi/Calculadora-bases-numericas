@@ -1,1 +1,2 @@
 # Calculadora-bases-numericas
+Para esse Projeto eu pensei em algo que facilitasse minha vida em uma matéria na faculdade, estou cursando ADS e tenho uma matéria que estavamos estudando isso conversões de bases, eu aprendi a fazer a conta na mão utilizando todas as formulas, mas eu demorava muito para realizar todos os exercicios e mais ainda para conferir o resultado. então desenvolvi essa calculadora para otimizar o meu tempo, assim podendo treinar mais e melhorando o meu aprendizado.
